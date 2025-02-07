@@ -1,4 +1,4 @@
-'''a=str(input())
+a=str(input())
 b=""
 for i in a:
     if ord(i)%2==0:
@@ -489,7 +489,7 @@ for i in range(a):
         print("*",end=" ")
     for j in range(i+1):
         print('*',end=" ")
-    print()'''
+    print()
 
 
 
